@@ -1,3 +1,5 @@
+USE CRYSTN_EXPTS;
+
 # VIEW - See pxrd info for each experiment
 
 CREATE OR REPLACE VIEW VW_pxrd_info
